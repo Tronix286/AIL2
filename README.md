@@ -4,6 +4,9 @@ This is a part of AIL2 sound library for support Creative Music System / Game Bl
 - CMS.ADV
 - CMS.MDI
 
+Used piece of software codes from third-party peoples, eg:
+- DEATHSHADOW'S Paku-Paku game by Jason M. Knight
+
 For compile you need TASM and TLINK from Borland C 3.0. Compilation:
 ~~~~
 
